@@ -23,10 +23,9 @@ I am a computational ecologist, presently a PhD Candidate at the [Bonachela lab]
 ![Python](https://img.shields.io/badge/Python-276DC3?style=flat-square&logo=python&logoColor=lightcoral)
 ![C/C++](https://img.shields.io/badge/C/C++-008080?style=flat-square&logo=cplusplus&logoColor=indianred)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=indianred)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=lightcoral)
 ![Bash](https://img.shields.io/badge/Bash-F7DF1E?style=flat-square&logo=gnubash&logoColor=black)
 ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=indianred)
-
 ![Mathematica](https://img.shields.io/badge/Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS/HTML](https://img.shields.io/badge/CSS/HTML-F7DF1E?style=flat-square&logo=css&logoColor=black)
@@ -44,7 +43,6 @@ I am a computational ecologist, presently a PhD Candidate at the [Bonachela lab]
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0097C2?style=flat-square&logo=opencv&logoColor=white)
 ![Numpy/Cupy](https://img.shields.io/badge/Numpy/Cupy-00A3E0?style=flat-square&logo=numpy&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=flat-square&logo=dask&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
